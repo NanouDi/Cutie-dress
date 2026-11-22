@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b4b2hdhtlfwjg"
+path="res://.godot/imported/Smack A Bitch-Rico Nasty.mp3-c7d93f91facf7d533bbdcb393cbae70e.mp3str"
+
+[deps]
+
+source_file="res://art/music/Smack A Bitch-Rico Nasty.mp3"
+dest_files=["res://.godot/imported/Smack A Bitch-Rico Nasty.mp3-c7d93f91facf7d533bbdcb393cbae70e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

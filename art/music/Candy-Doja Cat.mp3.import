@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dgsgunt0mb88o"
+path="res://.godot/imported/Candy-Doja Cat.mp3-75a85dbf2d29759b243870769a34d351.mp3str"
+
+[deps]
+
+source_file="res://art/music/Candy-Doja Cat.mp3"
+dest_files=["res://.godot/imported/Candy-Doja Cat.mp3-75a85dbf2d29759b243870769a34d351.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

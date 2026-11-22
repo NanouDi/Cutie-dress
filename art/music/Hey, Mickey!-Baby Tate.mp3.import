@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://hw3p7xp4yurl"
+path="res://.godot/imported/Hey, Mickey!-Baby Tate.mp3-2351b783d267ac7606abee18a162b9bd.mp3str"
+
+[deps]
+
+source_file="res://art/music/Hey, Mickey!-Baby Tate.mp3"
+dest_files=["res://.godot/imported/Hey, Mickey!-Baby Tate.mp3-2351b783d267ac7606abee18a162b9bd.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

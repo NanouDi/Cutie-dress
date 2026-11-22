@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bgm02k2dvbghq"
+path="res://.godot/imported/Tia Tamera-Doja Cat ft. Rico Nasty.mp3-cb467d1ed89f7b4ea884f10fae460890.mp3str"
+
+[deps]
+
+source_file="res://art/music/Tia Tamera-Doja Cat ft. Rico Nasty.mp3"
+dest_files=["res://.godot/imported/Tia Tamera-Doja Cat ft. Rico Nasty.mp3-cb467d1ed89f7b4ea884f10fae460890.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

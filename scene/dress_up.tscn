@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ehvfnt3h5otq"]
+
+[ext_resource type="Script" uid="uid://de3c2aish2nch" path="res://script/dress_up.gd" id="1_0ogma"]
+
+[node name="DressUp" type="Node2D" unique_id=326351421]
+script = ExtResource("1_0ogma")
