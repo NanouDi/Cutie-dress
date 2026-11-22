@@ -363,9 +363,9 @@ Les dessins des animaux, des vêtements sont **à moi**, et on été crée par m
 ## 🌷 Créé par
 
 ### **Nabintou Diakite**
-*alias Navi*
+*Nanou pour les intimes*
 
-⏱️ **Temps passé sur le projet :** [XX] heures sur [XX] jours
+⏱️ **Temps passé sur le projet :** 12h-15h heures sur 3 jours
 
 *Fait avec beaucoup de rose, de patience et de musique de Doja* 🍭
 
